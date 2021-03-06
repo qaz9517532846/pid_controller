@@ -34,7 +34,7 @@ $ cd ..
 $ catkin_make
 ```
 
-![image](https://github.com/qaz9517532846/pid_controller/blob/main/image/pid_controller.png)
+![image](https://github.com/qaz9517532846/pid_controller/blob/main/image/result.png)
 
 ------
 
