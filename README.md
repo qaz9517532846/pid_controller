@@ -16,6 +16,8 @@
 
   - /output (System Control output result)
 
+- Run the pid_controller.
+
 ``` bash
 $ cd <catkin_ws>/src
 ```
@@ -31,3 +33,8 @@ $ cd ..
 ``` bash
 $ catkin_make
 ```
+------
+
+This repository is for your reference only. copying, patent application, academic journals are strictly prohibited.
+
+Copyright © 2021 ZM Robotics Software Laboratory.
