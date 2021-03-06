@@ -4,7 +4,7 @@
 
 - OS: Linux Ubuntu.
 
-- Software: Robot Operating Sysyem.
+- Software: Robot Operating System.
 
 - Publisher:
 
