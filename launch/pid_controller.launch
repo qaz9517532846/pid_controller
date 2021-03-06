@@ -1,0 +1,3 @@
+<launch>
+    <node name="pid_controller_node" pkg="pid_controller" type="pid_controller" />
+</launch>
