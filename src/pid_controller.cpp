@@ -75,7 +75,7 @@ double PID_Controller::I_Controller(double ki, double error, double dt)
 
 double PID_Controller::D_Controller(double kd, double error, double dt)
 {
-    double P_output = (error - pre_error) / dt;
+    double P_output = kd * (error - pre_error) / dt;
     pre_error = error;
     return P_output;
 }
